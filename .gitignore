@@ -1,0 +1,12 @@
+# ignore node dependency directories
+backend/node_modules/
+frontend/node_modules/
+.idea/
+.sass-cache
+.tmp
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+.DS_Store
